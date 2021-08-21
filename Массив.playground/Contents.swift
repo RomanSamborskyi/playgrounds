@@ -71,3 +71,4 @@ func countOfZp(Set:[Double:[Int]?])->(){
     
 
 countOfZp(Set: setOfHouers)
+//написати ще якусь функцію сьогодні
